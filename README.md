@@ -1,5 +1,5 @@
 ### Olá! 
-Bem vindo(a) ao meu perfil
+Bem-vindo(a) ao meu perfil
 
 <div align=center >
   <a href="https://github.com/JenifferBitancort">
